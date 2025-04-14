@@ -1,15 +1,17 @@
 export const people = [
-  ["Jane", "Doe", "jane@doe.com"],
-  ["John", "Smith", "john@smith.com"],
-  ["Jim", "Beam", "jim@beam.com"],
-  ["Jill", "Hill", "jill@hill.com"],
-  ["Jake", "Jones", "jake@jones.com"],
+  ["Jane", "Doe"],
+  ["John", "Smith"],
+  ["Jim", "Beam"],
+  ["Jill", "Hill"],
+  ["Jake", "Jones"],
 ]
 
 export const weirdPeople = [
-  ["Bob", "Smith", "bob.smith1@email.com"],
-  ["Bob", "Smith", "bob.smith2@email.com"],
-  ["John", "Michaels", "john@john.com"],
-  ["Jill", "Michaels", "mike@mike.com"],
-  ["Jake", "Michaels", "jake@jake.com"],
+  ["Bob", "Smith"],
+  ["Bob", "Smith"],
+  ["Barbara", "Smith"],
+  ["Bobby", "Smith"],
+  ["John", "Michaels"],
+  ["Jill", "Michaels"],
+  ["Jake", "Michaels"]
 ]
